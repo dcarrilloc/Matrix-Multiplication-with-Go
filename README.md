@@ -1,2 +1,2 @@
 # Matrix-Multiplication-with-Go
-Just testing some features of Golang
+Just testing some features of Goland
